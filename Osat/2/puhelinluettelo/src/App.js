@@ -113,7 +113,7 @@ handleFilter = (event) => {
 
 poista = (id) => {
   return () => {
-    const url = `http://localhost:3001/persons/${id}`
+    const url = `/api/persons/${id}`
     const persons = this.state.persons
     persons.splice(id-1, 1);
 
