@@ -9,4 +9,4 @@ for school
 
 * [Osa 3](https://github.com/klaufred/osa3)
 
-* [Osa 4](https://github.com/klaufred/fullstack-hy/blob/master/Osat/osa4)
+* [Osa 4](https://github.com/klaufred/fullstack-hy/tree/master/Osat/4/osa4)
