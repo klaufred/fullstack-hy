@@ -11,5 +11,8 @@ for school
 
 * [Osa 4](https://github.com/klaufred/fullstack-hy/tree/master/Osat/4/osa4)
 
-
 * [Osa 5](https://github.com/klaufred/fullstack-hy/tree/master/Osat/5)
+
+* [Osa 6](https://github.com/klaufred/fullstack-hy/tree/master/Osat/6)
+
+* [Osa 7](https://github.com/klaufred/fullstack-hy/tree/master/Osat/7)
